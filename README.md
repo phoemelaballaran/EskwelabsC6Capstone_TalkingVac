@@ -1,1 +1,1 @@
-# EskwelabsC6Capstone_TalkingVac
+# Eskwelabs Cohort 6 Capstone Project: TalkingVac
